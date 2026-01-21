@@ -1,0 +1,3 @@
+C:/Users/olik/source/repos/Roxy/build/CMakeFiles/Roxy.dir
+C:/Users/olik/source/repos/Roxy/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/olik/source/repos/Roxy/build/CMakeFiles/ZERO_CHECK.dir
